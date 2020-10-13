@@ -1,0 +1,707 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"RE",
+				"REDIS_PORT\tstatement"
+			],
+			[
+				"RED",
+				"REDIS_PORT\tstatement"
+			],
+			[
+				"Re",
+				"REDIS_HOST\tstatement"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"df",
+				"df_goods\tmodule"
+			],
+			[
+				"HAYSRA",
+				"HAYSTACK_DEFAULT_OPERATOR\tstatement"
+			],
+			[
+				"Su",
+				"Sum\tclass"
+			],
+			[
+				"g",
+				"get"
+			],
+			[
+				"创建",
+				"创建详单对象"
+			],
+			[
+				"Or",
+				"OrderDetailInfo\tclass"
+			],
+			[
+				"las",
+				"lastcount"
+			],
+			[
+				"ss",
+				"session"
+			],
+			[
+				"cart",
+				"cartcount\tstatement"
+			],
+			[
+				"mode",
+				"models\tmodule"
+			],
+			[
+				"typei",
+				"typeinfo\tstatement"
+			],
+			[
+				"res",
+				"HttpResponse"
+			],
+			[
+				"lo",
+				"logout\tfunction"
+			],
+			[
+				"tir",
+				"trigger\t.trigger()"
+			],
+			[
+				"parse",
+				"parseFloat"
+			],
+			[
+				"tex",
+				"text-indent\tproperty"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"goodsinfo",
+				"goodsinfo_set"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"model",
+				"Model"
+			],
+			[
+				"me",
+				"method\tAttr"
+			],
+			[
+				"cs",
+				"csrf_exempt\tfunction"
+			],
+			[
+				"regi",
+				"register_handle\tfunction"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"Htt",
+				"HttpResponse\tclass"
+			],
+			[
+				"cele",
+				"celeryTest\tfunction"
+			],
+			[
+				"http",
+				"HttpResponse"
+			],
+			[
+				"c",
+				"cache1\tfunction"
+			],
+			[
+				"cache",
+				"cache_page\tfunction"
+			],
+			[
+				"scri",
+				"script\tTag"
+			],
+			[
+				"name",
+				"namespace\tparam"
+			],
+			[
+				"BA",
+				"BASE_DIR\tstatement"
+			],
+			[
+				"scr",
+				"script\t<script>"
+			],
+			[
+				"page",
+				"page_index"
+			],
+			[
+				"verify",
+				"verifyTest2"
+			],
+			[
+				"v",
+				"verifyTest1"
+			],
+			[
+				"textTe",
+				"textTemp1"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"ran",
+				"randrange"
+			],
+			[
+				"set",
+				"set：有序集合"
+			],
+			[
+				"se",
+				"set（集合）"
+			],
+			[
+				"h",
+				"having"
+			],
+			[
+				"cla",
+				"classes"
+			],
+			[
+				"goup",
+				"group_concat"
+			],
+			[
+				"grou",
+				"group_concat"
+			],
+			[
+				"s",
+				"students"
+			],
+			[
+				"HTT",
+				"HTTPServer"
+			],
+			[
+				"ser",
+				"serSocket"
+			],
+			[
+				"fi",
+				"file_name"
+			],
+			[
+				"reques",
+				"request_start_line"
+			],
+			[
+				"cli",
+				"cliAddr"
+			],
+			[
+				"resp",
+				"response_headers"
+			],
+			[
+				"response",
+				"response_start_line"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/etc/mysql/mysql.conf.d/mysqld.cnf",
+			"settings":
+			{
+				"buffer_size": 3080,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"syan:py",
+				"Set Syntax: Python"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"LiveReload: Enable/disable plug-ins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"mdp",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/mnt/hgfs/python学习阶段二/08flask/02爱租房项目/iHome"
+	],
+	"file_history":
+	[
+		"/etc/redis/redis.conf",
+		"/mnt/hgfs/python学习阶段二/08flask/02爱租房项目/iHome/manage.py",
+		"/etc/nginx/sites-available/default",
+		"/etc/ssh/ssh_config",
+		"/etc/netplan/01-network-manager-all.yaml",
+		"/etc/network/interfaces",
+		"/home/xian/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/xian/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+		"/home/xian/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/dailyfresh/urls.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_goods/urls.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_goods/views.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_user/views.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/df_user/user_center_info.html",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/df_goods/index.html",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/df_order/order.html",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_order/views.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_order/models.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_goods/models.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/df_user/user_center_order.html",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_order/urls.py",
+		"/mnt/hgfs/python学习阶段二/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/df_order/viewlog.html",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_goods/admin.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_user/urls.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/df_user/base.html",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/search/search.html",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_cart/views.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/base.html",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/df_goods/base.html",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/dailyfresh/settings.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/static/css/main.css",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_goods/search_indexes.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/search/indexes/df_goods/goodsinfo_text.txt",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/df_goods/list.html",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/df_cart/cart.html",
+		"/home/xian/06django/01django/06Django扩展/test06/templates/booktest/mysearch.html",
+		"/home/xian/06django/01django/06Django扩展/test06/booktest/views.py",
+		"/home/xian/06django/01django/06Django扩展/test06/booktest/urls.py",
+		"/home/xian/06django/01django/06Django扩展/test06/booktest/search_indexes.py",
+		"/mnt/hgfs/python学习阶段二/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/search/search.html",
+		"/home/xian/06django/01django/06Django扩展/test06/templates/search/search.html",
+		"/home/xian/06django/01django/06Django扩展/test06/test06/urls.py",
+		"/mnt/hgfs/python学习阶段二/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/search/indexes/df_goods/goodsinfo_text.txt",
+		"/mnt/hgfs/python学习阶段二/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_goods/search_indexes.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_user/islogin.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/df_goods/detail.html",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_cart/models.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_cart/urls.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/df_user/user_center_site.html",
+		"/home/xian/06django/源码/天天生鲜/css/main.css",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_order/__init__.py",
+		"/mnt/hgfs/python学习阶段二/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_order/urls.py",
+		"/home/xian/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_cart/__init__.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_cart/migrations/0001_initial.py",
+		"/mnt/hgfs/python学习阶段二/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_cart/urls.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/df_user/login.html",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_user/models.py",
+		"/mnt/hgfs/python学习阶段二/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/df_goods/base.html",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/df_user/register.html",
+		"/mnt/hgfs/python学习阶段二/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/df_user/base.html",
+		"/mnt/hgfs/python学习阶段二/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_goods_goodsinfo.sql",
+		"/mnt/hgfs/python学习阶段二/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_goods_typeinfo.sql",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/base_foot.html",
+		"/mnt/hgfs/python学习阶段二/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_goods/urls.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/static/js/register.js",
+		"/home/xian/06django/01django/03Django视图/test03/templates/booktest/postTest1.html",
+		"/home/xian/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/mnt/hgfs/python学习阶段二/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/templates/df_user/base_foot.html",
+		"/mnt/hgfs/python学习阶段二/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/df_user/urls.py",
+		"/home/xian/06django/02天天生鲜项目思路/dailyfresh/dailyfresh/dailyfresh/__init__.py",
+		"/home/xian/06django/03Git/test07/booktest/urls.py",
+		"/home/xian/06django/03Git/test07/test07/settings.py",
+		"/home/xian/06django/03Git/test07/booktest/views.py",
+		"/home/xian/06django/03Git/test07/uwsgi.ini",
+		"/home/xian/06django/03Git/test07/uwsgi.pid",
+		"/mnt/hgfs/python学习阶段二/06django/03Git/test07/templates/booktest/index.html",
+		"/home/xian/06django/03Git/test07/uswgi.log",
+		"/mnt/hgfs/python学习阶段二/06django/03Git/test07/booktest/uwsgi.ini",
+		"/home/xian/06django/03Git/test07/test07/__init__.py",
+		"/mnt/hgfs/python学习阶段二/06django/03Git/test07/booktest/urls.py",
+		"/home/xian/06django/03Git/test07/test07/urls.py",
+		"/home/xian/06django/01django/05Django高级/test05/test05/settings.py",
+		"/home/xian/06django/01django/06Django扩展/test06/booktest/task.py",
+		"/home/xian/06django/01django/06Django扩展/test06/test06/settings.py",
+		"/mnt/hgfs/python学习阶段二/06django/01django/06Django扩展/test06/booktest/task.py",
+		"/mnt/hgfs/python学习阶段二/06django/01django/06Django扩展/test06/templates/booktest/mysearch.html",
+		"/home/xian/06django/01django/06Django扩展/test06/templates/search/indexes/booktest/test1_text.txt",
+		"/mnt/hgfs/python学习阶段二/06django/01django/06Django扩展/test06/booktest/search_indexes.py",
+		"/mnt/hgfs/python学习阶段二/06django/01django/06Django扩展/test06/templates/search/indexes/booktest/test1_text.txt",
+		"/mnt/hgfs/python学习阶段二/06django/01django/06Django扩展/test06/templates/booktest/cache1.html",
+		"/home/xian/.virtualenvs/py3env/lib/python3.8/site-packages/haystack/inputs.py",
+		"/home/xian/.virtualenvs/py3env/lib/python3.8/site-packages/haystack/backends/ChineseAnalyzer.py",
+		"/home/xian/.virtualenvs/py3env/lib/python3.8/site-packages/haystack/backends/whoosh_cn_backend.py",
+		"/mnt/hgfs/python学习阶段二/06django/01django/06Django扩展/test06/templates/search/search.html",
+		"/mnt/hgfs/python学习阶段二/06django/01django/06Django扩展/test06/booktest/booktest/search_indexes.py",
+		"/mnt/hgfs/python学习阶段二/06django/01django/06Django扩展/test06/templates/booktest/htmlShow.html",
+		"/home/xian/06django/01django/06Django扩展/test06/templates/booktest/htmlEditor.html",
+		"/etc/mysql/mysql.conf.d/mysqld.cnf",
+		"/etc/mysql/my.cnf",
+		"/etc/my.cnf",
+		"/home/xian/06django/01django/06Django扩展/test06/templates/booltest/htmlEditor.html",
+		"/mnt/hgfs/python学习阶段二/06django/01django/06Django扩展/test06/templates/booltest/htmlEditor.html",
+		"/home/xian/06django/01django/06Django扩展/test06/booktest/admin.py",
+		"/home/xian/06django/01django/06Django扩展/test06/booktest/models.py",
+		"/home/xian/06django/01django/05Django高级/test05/booktest/views.py",
+		"/home/xian/06django/01django/05Django高级/test05/booktest/migrations/0001_initial.py",
+		"/home/xian/06django/01django/06Django扩展/test06/booktest/__init__.py",
+		"/mnt/hgfs/python学习阶段二/06django/01django/06Django扩展/test06/booktest/urls.py",
+		"/home/xian/06django/01django/06Django扩展/test06/booktest/migrations/__init__.py",
+		"/home/xian/06django/01django/05Django高级/test05/booktest/__init__.py",
+		"/home/xian/06django/01django/05Django高级/test05/test05/urls.py",
+		"/home/xian/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/xian/06django/01django/05Django高级/test05/booktest/models.py",
+		"/home/xian/06django/01django/05Django高级/test05/booktest/urls.py",
+		"/home/xian/06django/01django/05Django高级/test05/templates/booktest/area.html",
+		"/mnt/hgfs/python学习阶段二/06django/01django/05Django高级/test05/booktest_areainfo.sql",
+		"/home/xian/.virtualenvs/py3env/lib/python3.8/site-packages/django/core/paginator.py",
+		"/home/xian/pycharm.desktop",
+		"/mnt/hgfs/python学习阶段二/06django/01django/05Django高级/test05/templates/booktest/area.html",
+		"/home/xian/.config/sublime-text-3/Packages/Anaconda/LICENSE",
+		"/home/xian/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+		"/home/xian/06django/01django/05Django高级/test05/booktest/admin.py",
+		"/mnt/hgfs/python学习阶段二/06django/01django/05Django高级/test05/templates/booktest/herolist.html",
+		"/home/xian/.config/sublime-text-3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/xian/.config/sublime-text-3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/home/xian/06django/01django/05Django高级/test05/templates/admin/change_form.html",
+		"/home/xian/06django/01django/05Django高级/test05/templates/admin/base_site.html"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"6379",
+			"True",
+			"配置信息",
+			"upst",
+			"up"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/etc/mysql/mysql.conf.d/mysqld.cnf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1320,
+								1320
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 783.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "3.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/06django/1.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
